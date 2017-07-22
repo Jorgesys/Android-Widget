@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Widget</string>
+
+
+    <string name="info"><![CDATA[<b>Enhanced System Integration</b><br>Extending applications to integrate with interfaces outside the core application experience through notifications and app widgets. This includes displaying information to the user through these elements and keeping that information up to date. Candidates should also understand how to provide proper navigation from these external interfaces into the application\'s main task, including appropriate handling of deep links.</br>Create an app widget that displays on the device home screen</br>Implement a task to update the app widget periodically</br>Create and display a notification to the user</br>]]></string>
+
+
+</resources>
